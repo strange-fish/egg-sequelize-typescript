@@ -1,6 +1,6 @@
 {
   "name": "@strange-fish/egg-sequelize-typescript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "eggPlugin": {
     "name": "sequelizeTypescript"
@@ -43,6 +43,7 @@
   "files": [
     "app.js",
     "agent.js",
+    "lib",
     "config"
   ],
   "ci": {
