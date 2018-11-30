@@ -15,7 +15,7 @@ declare module 'egg' {
 
   // extend your config
   interface EggAppConfig {
-    sequelize: sequelize.Options;
+    sequelizeTypescript: sequelize.Options;
   }
 
 }
